@@ -9,6 +9,8 @@ Front-end e-commerce application designed as a menu, with functioning cart featu
 [![CSS][CSS]][CSS-url]
 [![Javascript][Javascript]][Javascript-url]
 
+### Screenshots:
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -18,3 +20,5 @@ Front-end e-commerce application designed as a menu, with functioning cart featu
 [CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [HTML.com]: https://img.shields.io/badge/-HTML-orange?logo=HTML5
 [HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
+
+
