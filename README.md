@@ -11,6 +11,9 @@ Front-end e-commerce application designed as a menu, with functioning cart featu
 
 ### Screenshots:
 
+![Home](main.png)
+![Home](empty.png)
+![Home](fullcart.png)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
